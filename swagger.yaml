@@ -24,7 +24,7 @@ info:
     name: API Support
     email: apiteam@swagger.io
     url: https://github.com/Redocly/redoc
-host: '172.20.0.1'
+host: 'DEVICE_IP'
 basePath: /restconf/data
 tags:
   - name: system
